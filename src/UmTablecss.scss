@@ -1,0 +1,48 @@
+.UmTable{
+    border: 1px solid lightslategrey; 
+    width: 80%;
+    tr{
+        height: 40px;
+    }
+    th{
+        padding: 3px;
+    }
+    tr:first-child {
+        font-weight: bold;
+        background-color: lightslategrey;
+        
+      }
+      tr:nth-child(even) {
+        background-color: lightgrey;
+      }
+      td {
+        text-align: center;
+      }
+    .UmTh-Sort:hover {
+        cursor: pointer;
+    }
+
+    .UmTh-sort-base {
+        position: absolute;
+    }
+
+    .UmTh-sort-ascent:after {
+        @extend .UmTh-sort-base;
+        content: '\25B2';
+    }
+
+    .UmTh-sort-descent:after {
+        @extend .UmTh-sort-base;
+        content: '\25BC';
+    }
+    .expander {
+        cursor: pointer;
+        color: #9bbec2;
+        font-weight: bold;
+      }
+}
+
+
+   
+  
+ 

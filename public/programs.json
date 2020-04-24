@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Sainath",
+        "displayName": "Sai",
+        "syllabusId": "4536",
+        "hydraId": "09263",
+        "enrolledDate": "2014-03-10T18:30:00Z",
+        "hasMilestones": false,
+        "isComplete": false,
+        "lastActivity": "2020-06-14T18:30:00Z"
+    },
+    {
+        "name": "Srihari",
+        "displayName": "Sri",
+        "syllabusId": "65233",
+        "hydraId": "8872",
+        "enrolledDate": "2014-06-26T18:30:00Z",
+        "hasMilestones": false,
+        "isComplete": false,
+        "lastActivity": "2018-09-20T18:30:00Z"
+    },
+    {
+        "name": "Sambhav",
+        "displayName": "Sambhav",
+        "syllabusId": "08239",
+        "hydraId": "9812",
+        "enrolledDate": "2016-11-30T18:30:00Z",
+        "hasMilestones": false,
+        "isComplete": false,
+        "lastActivity": "2020-07-09T18:30:00Z"
+    }
+]

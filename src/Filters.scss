@@ -1,0 +1,33 @@
+.filterContainer{
+    width: 171px;
+    .filterLabel {
+        font-size: 18px;
+        color: #333333;
+        padding-bottom: 20px;
+        i {
+            color: #CFCFCF;
+            font-size: 12px;
+        }
+    }
+    .filterList{
+        .filter{
+            width: 170px;
+            padding-bottom: 25px;
+            font-size: 13px !important;
+            .textField{
+                width: 145px;
+            }
+            .selectField{
+                width: 170px;
+            }
+        }
+        .selectFilter{
+            
+        }
+    }
+}
+.searchIcon{
+    color: #666666;
+    height: 12px;
+    width: 12px;
+}
